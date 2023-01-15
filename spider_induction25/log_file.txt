@@ -1,0 +1,44 @@
+$ git log
+commit 4412fdeaedf3aab3a2e850af9f71efe360db3e5a (HEAD -> master)
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 16:06:47 2023 +0530
+
+    2nd commit in spider
+
+commit dfbce9939d51a3ebb19bb698ea372efa3a8a7c67
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 16:05:27 2023 +0530
+
+    1st commit in spider
+
+commit 8989200ea3cdc039ea6177c59aea8bfdd9cf2952
+Merge: b4838f3 b8369fa
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 15:54:38 2023 +0530
+
+    Merge branch 'Develop'
+
+commit b8369fa17f4354c722836bc7f39ae0e5d1a59c1a
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 15:49:21 2023 +0530
+
+    2nd commit in Develop
+
+commit b4838f3aa19ffb96a9bd248d85ac635e3ab58456
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 15:47:34 2023 +0530
+
+    2nd commit in master
+
+commit 557b8c0fd29a117e43d6cbf00dd518f2a6247352
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 15:45:28 2023 +0530
+
+    first commit in Develop
+
+commit e0279029f1b6da5093f098c08f61a94947ab09d7
+Author: Aryan-016 <aryangogia7@gmail.com>
+Date:   Sun Jan 15 15:40:14 2023 +0530
+
+    initial commit
+
